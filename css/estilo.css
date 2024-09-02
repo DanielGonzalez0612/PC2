@@ -1,0 +1,27 @@
+h1{
+    position: relative;
+    bottom: 230px;
+    left: 400px;
+}
+#tt2{
+    position: relative;
+    bottom: 220px;
+    left: 400px;
+}
+
+#hh{
+    position: relative;
+    bottom: 220px;
+    left: 400px;
+}
+
+body{
+background: rgba(0, 132, 255, 0.76);
+
+}
+
+section{
+    position: relative;
+    bottom: 180px;
+    left: 20px;
+}
